@@ -10,7 +10,7 @@
     --strok-color: rgba(255, 255, 255, 0.5);
     --surface-color:rgba(255, 255, 255, 0.05);
     --surface-color-hover: rgba(0,0,0,0.02);
-    --highlight-color: rgba(255,255,255,0.01);
+    --highlight-color: rgba(255, 255, 255, 0.137);
     --switch-bg-url: url(images/lua.svg);
     }
 .light{
@@ -79,6 +79,10 @@ body *{
     transform: translateY(-50%);
     animation: suavizarBotaoDark 0.4s forwards;
 }
+#switch button:hover {
+    outline:8px solid var(--highlight-color);
+}
+
 
 .light #switch button{
     animation: suavizarBotaoLight 0.4s forwards;
