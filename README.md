@@ -8,4 +8,4 @@ HTML 5
 CSS3
 JAVASCRIPT
 
-link do site: <a href="https://diegoalmeidaramos.github.io/tela-de-entrada-luki/" >
+link do site: <a href="https://diegoalmeidaramos.github.io/tela-de-entrada-luki/">Luki Variedade</a>
